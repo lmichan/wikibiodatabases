@@ -10,6 +10,7 @@ Este proyecto está detallado en los proyectos de wikiata  como [https://www.wik
 
 📚La biblioteca de Zotero la tenemos en la siguiente liga [🔗
 ](https://www.zotero.org/groups/4628198/wikibiodatabases/library)
+
 ✏️Los manuales de curación están disponibles en la siguiente carpeta [🗂](https://drive.google.com/drive/folders/1HeMLHmBXU7h6kr-CcoVs6PQKGv7yqiAN)
 
 🖍El artículo 
