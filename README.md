@@ -2,7 +2,7 @@
 
 # wikibiodatabases
 
-Proyecto para reunir todas las bases de datos en Biociencias en Wikidata
+Proyecto para reunir todas las bases de datos en Biociencias en Wikidata https://es.wikipedia.org/wiki/Base_de_datos_biol%C3%B3gica
 
 Este proyecto está detallado en los proyectos de wikiata  como [https://www.wikidata.org/wiki/Wikidata:Bases_de_Datos_Biociencias](https://www.wikidata.org/wiki/Wikidata:Bases_de_Datos_Biociencias)
 
