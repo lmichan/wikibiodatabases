@@ -13,5 +13,5 @@ Este proyecto está detallado en los proyectos de wikiata  como [https://www.wik
 
 ✏️Los manuales de curación están disponibles en la siguiente carpeta [🗂](https://drive.google.com/drive/folders/1HeMLHmBXU7h6kr-CcoVs6PQKGv7yqiAN)
 
-🖍El artículo 
+🖍[El artículo](https://docs.google.com/document/d/169vCOMpEsvvPSWSZw_3sCZGTJfA6aWZE3wT2LWWjmaA/edit) 
 
