@@ -1,6 +1,6 @@
-# Git Hub Wikidata
 
-# wikibiodatabases
+
+# Proyecto wikibiodatabases
 
 Proyecto para reunir todas las bases de datos en [Biociencias en Wikidata](https://es.wikipedia.org/wiki/Base_de_datos_biol%C3%B3gica)
 
